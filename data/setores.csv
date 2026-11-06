@@ -2,8 +2,8 @@ Ticker;Empresa;Setor;Subsetor
 GNDI3;INTERMEDICA ON NM;Serv.Méd.Hospit. Análises e Diagnósticos;Serv.Méd.Hospit. Análises e Diagnósticos
 DOHL3;DOHLER ON;Tecidos, Vestuário e Calçados;Fios e Tecidos
 DOHL4;DOHLER PN;Tecidos, Vestuário e Calçados;Fios e Tecidos
-GEPA3;DUKE ENERGY INT,GERAÇÃO PARANAPANEMA SA ON;Energia Elétrica;Energia Elétrica
 GEPA4;DUKE ENERGY INT,GERAÇÃO PARANAPANEMA SA PN;Energia Elétrica;Energia Elétrica
+GEPA3;DUKE ENERGY INT,GERAÇÃO PARANAPANEMA SA ON;Energia Elétrica;Energia Elétrica
 LINX3;LINX ON NM;Programas e Serviços;Programas e Serviços
 GPAR3;CELGPAR ON;Energia Elétrica;Energia Elétrica
 SCAR3;SÃO CARLOS EMPREEND.E PARTICIPAÇÕES S.A. ON;Exploração de Imóveis;Exploração de Imóveis
@@ -49,7 +49,6 @@ BRSR5;BANRISUL S/A PNA;Intermediários Financeiros;Bancos
 BAZA3;BANCO DA AMAZONIA S.A. ON;Intermediários Financeiros;Bancos
 POMO4;MARCOPOLO PN N2;Material de Transporte;Material Rodoviário
 EUCA4;EUCATEX PN;Madeira e Papel;Madeira
-EALT4;ELECTRO AÇO ALTONA S/A PN;Máquinas e Equipamentos;Máq. e Equip. Industriais
 HBTS5;CIA HABITASUL PNA;Exploração de Imóveis;Exploração de Imóveis
 PINE4;Pine PN;Intermediários Financeiros;Bancos
 PETR4;PETROBRAS PN;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição
@@ -57,7 +56,6 @@ BGIP4;BANESE PN;Intermediários Financeiros;Bancos
 BRSR3;BANRISUL S/A ON;Intermediários Financeiros;Bancos
 EUCA3;EUCATEX ON;Madeira e Papel;Madeira
 SOND5;SONDOTECNICA S/A. PNA;Construção e Engenharia;Engenharia Consultiva
-EALT3;ELECTRO AÇO ALTONA S/A ON;Máquinas e Equipamentos;Máq. e Equip. Industriais
 ANIM3;ANIMA ON NM;Diversos;Serviços Educacionais
 LOGG3;LOG COM PROP ON NM;Exploração de Imóveis;Exploração de Imóveis
 FIGE3;INVESTIMENTOS BEMGE ON;Outros;Outros
@@ -165,6 +163,7 @@ EQPA6;EQTL PARA PNB;Energia Elétrica;Energia Elétrica
 IGTI3;IGUATEMI S.A ON N1;Exploração de Imóveis;Exploração de Imóveis
 MRSA6B;MRS LOGÍSTICA S/A PNB MB;Transporte;Transporte Ferroviário
 ITUB4;ITAUUNIBANCO PN N1;Intermediários Financeiros;Bancos
+EALT4;ELECTRO AÇO ALTONA S/A PN;Máquinas e Equipamentos;Máq. e Equip. Industriais
 EGIE3;ENGIE BRASIL ON;Energia Elétrica;Energia Elétrica
 BALM3;BAUMER ON;Equipamentos;Equipamentos
 ASAI3;ASSAI ON NM;Comércio e Distribuição;Alimentos
@@ -176,6 +175,7 @@ EKTR4;ELEKTRO ELETRICIDADE E SERVIÇOS S.A. PN;Energia Elétrica;Energia Elétri
 UGPA3;ULTRAPAR PARTICIPAÇÕES SA ON;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição
 CGAS5;COMPANHIA DE GÁS DE SÃO PAULO - COMGÁS PNAS;Gás;Gás
 MRSA5B;MRS LOGÍSTICA S/A PNA MB;Transporte;Transporte Ferroviário
+EALT3;ELECTRO AÇO ALTONA S/A ON;Máquinas e Equipamentos;Máq. e Equip. Industriais
 ALUP11;ALUPAR UNT N2;Energia Elétrica;Energia Elétrica
 ALPA3;ALPARGATAS ON N1;Tecidos, Vestuário e Calçados;Calçados
 CMIG3;CEMIG ON N1;Energia Elétrica;Energia Elétrica
@@ -209,6 +209,7 @@ REDE3;REDE EMPRESAS DE ENERGIA ELÉTRICA S.A. ON;Energia Elétrica;Energia Elét
 JOPA4;JOSAPAR S/A PN;Alimentos Processados;Alimentos Diversos
 BMOB3;BEMOBI TECH ON NM;Programas e Serviços;Programas e Serviços
 GOAU3;METALÚRGICA GERDAU ON N1;Siderurgia e Metalurgia;Siderurgia
+AURA33;AURA 360 DR3;Mineração;Minerais Metálicos
 TOTS3;TOTVS ON NM;Programas e Serviços;Programas e Serviços
 RANI3;IRANI ON;Madeira e Papel;Papel e Celulose
 B3SA3;B3 ON;Serviços Financeiros Diversos;Serviços Financeiros Diversos
@@ -240,7 +241,6 @@ GGBR4;GERDAU S.A. PN N1;Siderurgia e Metalurgia;Siderurgia
 AUAU3;PETZCOBASI ON NM;Comércio;Produtos Diversos
 CASN3;CASAN ON;Água e Saneamento;Água e Saneamento
 ENGI3;ENERGISA ON;Energia Elétrica;Energia Elétrica
-AURA33;AURA 360 DR3;Mineração;Minerais Metálicos
 RADL3;RAIADROGASIL ON;Comércio e Distribuição;Medicamentos e Outros Produtos
 CAML3;CAMIL ON NM;Alimentos Processados;Alimentos Diversos
 MERC3;MERCANTIL BRASIL ON;Intermediários Financeiros;Soc. Crédito e Financiamento
