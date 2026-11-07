@@ -2,8 +2,8 @@ Ticker;Empresa;Setor;Subsetor
 GNDI3;INTERMEDICA ON NM;Serv.Méd.Hospit. Análises e Diagnósticos;Serv.Méd.Hospit. Análises e Diagnósticos
 DOHL3;DOHLER ON;Tecidos, Vestuário e Calçados;Fios e Tecidos
 DOHL4;DOHLER PN;Tecidos, Vestuário e Calçados;Fios e Tecidos
-GEPA4;DUKE ENERGY INT,GERAÇÃO PARANAPANEMA SA PN;Energia Elétrica;Energia Elétrica
 GEPA3;DUKE ENERGY INT,GERAÇÃO PARANAPANEMA SA ON;Energia Elétrica;Energia Elétrica
+GEPA4;DUKE ENERGY INT,GERAÇÃO PARANAPANEMA SA PN;Energia Elétrica;Energia Elétrica
 LINX3;LINX ON NM;Programas e Serviços;Programas e Serviços
 GPAR3;CELGPAR ON;Energia Elétrica;Energia Elétrica
 SCAR3;SÃO CARLOS EMPREEND.E PARTICIPAÇÕES S.A. ON;Exploração de Imóveis;Exploração de Imóveis
@@ -16,8 +16,8 @@ WEST3;WESTWING ON NM;Programas e Serviços;Programas e Serviços
 ENJU3;ENJOEI ON NM;Programas e Serviços;Programas e Serviços
 TPIS3;TRIUNFO PARTICIPACOES SA ON NM;Transporte;Exploração de Rodovias
 BRPR3;BR PROPERTIES ON NM;Exploração de Imóveis;Exploração de Imóveis
-BAUH4;EXCELSIOR PN;Alimentos Processados;Carnes e Derivados
 BPAT33;Patagonia DR3;Intermediários Financeiros;Bancos
+BAUH4;EXCELSIOR PN;Alimentos Processados;Carnes e Derivados
 TRPN3;TARPON INV ON NM;Holdings Diversificadas;Holdings Diversificadas
 ALLD3;ALLIED ON NM;Comércio;Eletrodomésticos
 VTRU3;VITRUEDUCA ON NM;Diversos;Serviços Educacionais
