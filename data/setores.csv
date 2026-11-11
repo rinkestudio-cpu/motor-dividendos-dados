@@ -7,7 +7,9 @@ TIMS3;TIM ON NM;Telecomunicações;Telecomunicações
 GEPA4;DUKE ENERGY INT,GERAÇÃO PARANAPANEMA SA PN;Energia Elétrica;Energia Elétrica
 GEPA3;DUKE ENERGY INT,GERAÇÃO PARANAPANEMA SA ON;Energia Elétrica;Energia Elétrica
 LINX3;LINX ON NM;Programas e Serviços;Programas e Serviços
+TASA3;TAURUS ARMAS ON;Máquinas e Equipamentos;Armas e Munições
 GPAR3;CELGPAR ON;Energia Elétrica;Energia Elétrica
+TASA4;TAURUS ARMAS PN;Máquinas e Equipamentos;Armas e Munições
 SCAR3;SÃO CARLOS EMPREEND.E PARTICIPAÇÕES S.A. ON;Exploração de Imóveis;Exploração de Imóveis
 IRBR3;IRBBRASIL RE ON NM;Previdência e Seguros;Seguradoras
 BRAV3;BRAVA ON;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição
@@ -24,271 +26,269 @@ BAUH4;EXCELSIOR PN;Alimentos Processados;Carnes e Derivados
 TRPN3;TARPON INV ON NM;Holdings Diversificadas;Holdings Diversificadas
 ALLD3;ALLIED ON NM;Comércio;Eletrodomésticos
 VTRU3;VITRUEDUCA ON NM;Diversos;Serviços Educacionais
+RIAA3;RIACHUELO ON NM;Comércio;Tecidos, Vestuário e Calçados
 MMAQ4;MINASMÁQUINAS S/A PN;Comércio;Material de Transporte
 SOND3;SONDOTECNICA S/A. ON;Construção e Engenharia;Engenharia Consultiva
-RIAA3;RIACHUELO ON NM;Comércio;Tecidos, Vestuário e Calçados
 BMKS3;MONARK ON;Viagens e Lazer;Bicicletas
-CALI3;CAL S/A ON;Construção Civil;Incorporações
-PLPL3;PLANOEPLANO ON NM;Construção Civil;Incorporações
 MDNE3;MOURA DUBEUX ON NM;Construção Civil;Incorporações
 JHSF3;JHSF Part ON NM;Construção Civil;Incorporações
-BRSR6;BANRISUL S/A PNB;Intermediários Financeiros;Bancos
+PLPL3;PLANOEPLANO ON NM;Construção Civil;Incorporações
+CALI3;CAL S/A ON;Construção Civil;Incorporações
 EVEN3;Even ON NM;Construção Civil;Incorporações
+BRSR6;BANRISUL S/A PNB;Intermediários Financeiros;Bancos
+SBFG3;GRUPO SBF ON;Comércio;Produtos Diversos
 COCE5;CIA ENERG CEARA - COELCE PNA;Energia Elétrica;Energia Elétrica
+CEAB3;CEA MODAS ON NM;Comércio;Tecidos, Vestuário e Calçados
 COCE3;CIA ENERG CEARA - COELCE ON;Energia Elétrica;Energia Elétrica
 BNBR3;BANCO DO NORDESTE ON;Intermediários Financeiros;Bancos
-TECN3;TECHNOS ON NM;Tecidos, Vestuário e Calçados;Acessórios
-CEAB3;CEA MODAS ON NM;Comércio;Tecidos, Vestuário e Calçados
-TEND3;Tenda ON NM;Construção Civil;Incorporações
-RSUL4;METALURGICA RIOSULENSE S/A PN;Material de Transporte;Material Rodoviário
-SBFG3;GRUPO SBF ON;Comércio;Produtos Diversos
 MELK3;MELNICK ON NM;Construção Civil;Incorporações
+RSUL4;METALURGICA RIOSULENSE S/A PN;Material de Transporte;Material Rodoviário
+TEND3;Tenda ON NM;Construção Civil;Incorporações
 POMO3;MARCOPOLO ON;Material de Transporte;Material Rodoviário
-HBRE3;HBR REALTY ON NM;Exploração de Imóveis;Exploração de Imóveis
-BRSR5;BANRISUL S/A PNA;Intermediários Financeiros;Bancos
 CYRE3;CYRELA BRAZIL REALTY PN;Construção Civil;Incorporações
-BAZA3;BANCO DA AMAZONIA S.A. ON;Intermediários Financeiros;Bancos
-BGIP4;BANESE PN;Intermediários Financeiros;Bancos
-VULC3;VULCABRAS S/A. ON;Tecidos, Vestuário e Calçados;Calçados
-HBTS5;CIA HABITASUL PNA;Exploração de Imóveis;Exploração de Imóveis
-EUCA4;EUCATEX PN;Madeira e Papel;Madeira
 PETR4;PETROBRAS PN;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição
-COGN3;COGNA ON;Diversos;Serviços Educacionais
+BRSR5;BANRISUL S/A PNA;Intermediários Financeiros;Bancos
+TECN3;TECHNOS ON NM;Tecidos, Vestuário e Calçados;Acessórios
+BAZA3;BANCO DA AMAZONIA S.A. ON;Intermediários Financeiros;Bancos
 POMO4;MARCOPOLO PN N2;Material de Transporte;Material Rodoviário
+HBTS5;CIA HABITASUL PNA;Exploração de Imóveis;Exploração de Imóveis
+BGIP4;BANESE PN;Intermediários Financeiros;Bancos
+COGN3;COGNA ON;Diversos;Serviços Educacionais
+EUCA4;EUCATEX PN;Madeira e Papel;Madeira
 EUCA3;EUCATEX ON;Madeira e Papel;Madeira
-SOND5;SONDOTECNICA S/A. PNA;Construção e Engenharia;Engenharia Consultiva
 LAVV3;LAVVI ON NM;Construção Civil;Incorporações
-BRSR3;BANRISUL S/A ON;Intermediários Financeiros;Bancos
-FIGE3;INVESTIMENTOS BEMGE ON;Outros;Outros
-ANIM3;ANIMA ON NM;Diversos;Serviços Educacionais
-LOGG3;LOG COM PROP ON NM;Exploração de Imóveis;Exploração de Imóveis
-PINE4;Pine PN;Intermediários Financeiros;Bancos
-VBBR3;VIBRA ON;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição
-RECV3;PETRORECONCA ON NM;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição
-WIZC3;WIZ CO ON;Previdência e Seguros;Corretoras de Seguros
-PETR3;PETROBRAS ON;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição
-PGMN3;PAGUE MENOS ON NM;Comércio e Distribuição;Medicamentos e Outros Produtos
-CAMB3;PENALTY ON;Tecidos, Vestuário e Calçados;Calçados
-MOTV3;MOTIVA SA ON;Transporte;Exploração de Rodovias
 SOND6;SONDOTECNICA S/A. PNB;Construção e Engenharia;Engenharia Consultiva
-MTRE3;MITRE REALTY ON NM;Construção Civil;Incorporações
-LPSB3;LOPES BRASIL ON NM;Exploração de Imóveis;Intermediação Imobiliária
+SOND5;SONDOTECNICA S/A. PNA;Construção e Engenharia;Engenharia Consultiva
+BRSR3;BANRISUL S/A ON;Intermediários Financeiros;Bancos
+PETR3;PETROBRAS ON;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição
+FIGE3;INVESTIMENTOS BEMGE ON;Outros;Outros
+RECV3;PETRORECONCA ON NM;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição
+ANIM3;ANIMA ON NM;Diversos;Serviços Educacionais
+VBBR3;VIBRA ON;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição
+PINE4;Pine PN;Intermediários Financeiros;Bancos
+CAMB3;PENALTY ON;Tecidos, Vestuário e Calçados;Calçados
+PGMN3;PAGUE MENOS ON NM;Comércio e Distribuição;Medicamentos e Outros Produtos
 MOVI3;MOVIDA ON NM;Diversos;Aluguel de carros
+MTRE3;MITRE REALTY ON NM;Construção Civil;Incorporações
+WIZC3;WIZ CO ON;Previdência e Seguros;Corretoras de Seguros
+MOTV3;MOTIVA SA ON;Transporte;Exploração de Rodovias
+LPSB3;LOPES BRASIL ON NM;Exploração de Imóveis;Intermediação Imobiliária
+LOGG3;LOG COM PROP ON NM;Exploração de Imóveis;Exploração de Imóveis
+EQMA3B;CEMAR ON MB;Energia Elétrica;Energia Elétrica
 VLID3;VALID ON NM;Serviços Diversos;Serviços Diversos
 SEER3;SER EDUCA ON NM;Diversos;Serviços Educacionais
-EQMA3B;CEMAR ON MB;Energia Elétrica;Energia Elétrica
-BMGB4;BANCO BMG PN N1;Intermediários Financeiros;Bancos
-GMAT3;GRUPO MATEUS ON NM;Comércio e Distribuição;Alimentos
 TRIS3;Trisul ON NM;Construção Civil;Incorporações
+GMAT3;GRUPO MATEUS ON NM;Comércio e Distribuição;Alimentos
+BMGB4;BANCO BMG PN N1;Intermediários Financeiros;Bancos
 FIGE4;INVESTIMENTOS BEMGE PN;Outros;Outros
 MLAS3;MULTILASER ON NM;Computadores e Equipamentos;Computadores e Equipamentos
-DIRR3;Direcional Engenharia ON NM;Construção Civil;Incorporações
-ETER3;ETERNIT ON;Construção e Engenharia;Produtos para Construção
-PFRM3;PROFARMA ON NM;Comércio e Distribuição;Medicamentos e Outros Produtos
-SHUL4;SCHULZ PN;Máquinas e Equipamentos;Motores, Compressores e Outros
-BBDC3;BANCO BRADESCO S.A. ON N1;Intermediários Financeiros;Bancos
-ROMI3;ROMI ON;Máquinas e Equipamentos;Máq. e Equip. Industriais
-CSED3;CRUZEIRO EDU ON NM;Diversos;Serviços Educacionais
 MNPR3;MINUPAR ON;Alimentos Processados;Carnes e Derivados
+PFRM3;PROFARMA ON NM;Comércio e Distribuição;Medicamentos e Outros Produtos
 OFSA3;OUROFINO S/A ON NM;Medicamentos e Outros Produtos;Medicamentos e Outros Produtos
+DIRR3;Direcional Engenharia ON NM;Construção Civil;Incorporações
+BBDC3;BANCO BRADESCO S.A. ON N1;Intermediários Financeiros;Bancos
+DEXP3;DEXXOS PAR ON;Químicos;Petroquímicos
+DEXP4;DEXXOS PAR PN;Químicos;Petroquímicos
+SHUL4;SCHULZ PN;Máquinas e Equipamentos;Motores, Compressores e Outros
 CSUD3;CSU DIGITAL ON;Serviços Diversos;Serviços Diversos
-BEEF3;Minerva ON NM;Alimentos Processados;Carnes e Derivados
+ROMI3;ROMI ON;Máquinas e Equipamentos;Máq. e Equip. Industriais
+EZTC3;EZTec ON NM;Construção Civil;Incorporações
 LEVE3;MAHLE METAL LEVE ON;Automóveis e Motocicletas;Automóveis e Motocicletas
+BEEF3;Minerva ON NM;Alimentos Processados;Carnes e Derivados
 ABCB4;ABC Brasil PN N2;Intermediários Financeiros;Bancos
 GRND3;GRENDENE SA ON;Tecidos, Vestuário e Calçados;Calçados
-VITT3;VITTIA ON NM;Químicos;Fertilizantes e Defensivos
-EZTC3;EZTec ON NM;Construção Civil;Incorporações
-DEXP4;DEXXOS PAR PN;Químicos;Petroquímicos
 VSTE3;VESTE ON;Comércio;Tecidos, Vestuário e Calçados
-DEXP3;DEXXOS PAR ON;Químicos;Petroquímicos
+VITT3;VITTIA ON NM;Químicos;Fertilizantes e Defensivos
 ISAE4;ISA ENERGIA PN;Energia Elétrica;Energia Elétrica
+IGTI3;IGUATEMI S.A ON N1;Exploração de Imóveis;Exploração de Imóveis
 BBDC4;BANCO BRADESCO S.A. PN N1;Intermediários Financeiros;Bancos
 LUXM4;TREVISA INVESTIMENTOS SA PN;Transporte;Transporte Hidroviário
 BGIP3;BANESE ON;Intermediários Financeiros;Bancos
 CMIG4;CEMIG PN N1;Energia Elétrica;Energia Elétrica
+LREN3;RENNER ON;Comércio;Tecidos, Vestuário e Calçados
 BBAS3;BANCO DO BRASIL S.A. ON;Intermediários Financeiros;Bancos
+ETER3;ETERNIT ON;Construção e Engenharia;Produtos para Construção
 CEEB5;COELBA PNA;Energia Elétrica;Energia Elétrica
 CBAV3;CBA ON NM;Mineração;Minerais Metálicos
-CLSC3;CELESC ON N2;Energia Elétrica;Energia Elétrica
 BALM4;BAUMER PN;Equipamentos;Equipamentos
-ECOR3;ECORODOVIAS ON NM;Transporte;Exploração de Rodovias
-WLMM4;WLM PN;Comércio;Material de Transporte
-LREN3;RENNER ON;Comércio;Tecidos, Vestuário e Calçados
 EQPA3;EQTL PARA ON;Energia Elétrica;Energia Elétrica
+WLMM4;WLM PN;Comércio;Material de Transporte
 BMEB3;BANCO MERCANTIL DO BRASIL S/A ON;Intermediários Financeiros;Bancos
-SANB4;SANTANDER PN;Intermediários Financeiros;Bancos
+AXIA3;AXIA ENERGIA ON N1;Energia Elétrica;Energia Elétrica
+CURY3;CURY S/A ON NM;Construção Civil;Incorporações
+ECOR3;ECORODOVIAS ON NM;Transporte;Exploração de Rodovias
+IGTI11;IGUATEMI S.A UNT N1;Exploração de Imóveis;Exploração de Imóveis
 BEES3;BANESTES S/A ON;Intermediários Financeiros;Bancos
+VULC3;VULCABRAS S/A. ON;Tecidos, Vestuário e Calçados;Calçados
+SANB4;SANTANDER PN;Intermediários Financeiros;Bancos
 SANB3;SANTANDER ON;Intermediários Financeiros;Bancos
 SANB11;SANTANDER UNT;Intermediários Financeiros;Bancos
-AXIA3;AXIA ENERGIA ON N1;Energia Elétrica;Energia Elétrica
+CLSC3;CELESC ON N2;Energia Elétrica;Energia Elétrica
 MILS3;MILLS ON NM;Diversos;Aluguel de carros
+RENT4;LOCALIZA PN NM;Diversos;Aluguel de carros
 VAMO3;VAMOS ON NM;Diversos;Aluguel de carros
-CURY3;CURY S/A ON NM;Construção Civil;Incorporações
-WLMM3;WLM ON;Comércio;Material de Transporte
 BEES4;BANESTES S/A PN;Intermediários Financeiros;Bancos
+BRBI11;BR PARTNERS UNT N2;Intermediários Financeiros;Bancos
+RENT3;LOCALIZA ON;Diversos;Aluguel de carros
 CGRA4;GRAZZIOTIN PN;Comércio;Tecidos, Vestuário e Calçados
+WLMM3;WLM ON;Comércio;Material de Transporte
 INTB3;INTELBRAS ON NM;Computadores e Equipamentos;Computadores e Equipamentos
 ITSA4;ITAÚSA PN N1;Intermediários Financeiros;Bancos
-RENT4;LOCALIZA PN NM;Diversos;Aluguel de carros
-BRBI11;BR PARTNERS UNT N2;Intermediários Financeiros;Bancos
-PSSA3;PORTO SEGURO SA ON;Previdência e Seguros;Seguradoras
-ITSA3;ITAÚSA ON N1;Intermediários Financeiros;Bancos
 SYNE3;SYN PROP TEC ON NM;Exploração de Imóveis;Exploração de Imóveis
-RENT3;LOCALIZA ON;Diversos;Aluguel de carros
-ISAE3;ISA ENERGIA ON;Energia Elétrica;Energia Elétrica
-BMEB4;BANCO MERCANTIL DO BRASIL S/A PN;Intermediários Financeiros;Bancos
-CEEB3;COELBA ON;Energia Elétrica;Energia Elétrica
-CLSC4;CELESC PN N2;Energia Elétrica;Energia Elétrica
-BMIN4;BANCO MERCANTIL DE INVESTIMENTOS SA PN;Intermediários Financeiros;Bancos
-BBSE3;BBSEGURIDADE ON NM;Previdência e Seguros;Seguradoras
-AXIA6;AXIA ENERGIA PNB N1;Energia Elétrica;Energia Elétrica
-SUZB3;Suzano Papel ON;Madeira e Papel;Papel e Celulose
-VIVA3;VIVARA S.A. ON NM;Tecidos, Vestuário e Calçados;Acessórios
-TGMA3;Tegma ON NM;Transporte;Transporte Rodoviário
 CGRA3;GRAZZIOTIN ON;Comércio;Tecidos, Vestuário e Calçados
-NEOE3;NEOENERGIA ON NM;Energia Elétrica;Energia Elétrica
-KEPL3;KEPLER WEBER SA ON;Máquinas e Equipamentos;Máq. e Equip. Industriais
-CPFE3;CPFL ENERGIA S.A. ON;Energia Elétrica;Energia Elétrica
-BMIN3;BANCO MERCANTIL DE INVESTIMENTOS SA ON;Intermediários Financeiros;Bancos
+HBRE3;HBR REALTY ON NM;Exploração de Imóveis;Exploração de Imóveis
+CLSC4;CELESC PN N2;Energia Elétrica;Energia Elétrica
+CEEB3;COELBA ON;Energia Elétrica;Energia Elétrica
+VIVA3;VIVARA S.A. ON NM;Tecidos, Vestuário e Calçados;Acessórios
+BMIN4;BANCO MERCANTIL DE INVESTIMENTOS SA PN;Intermediários Financeiros;Bancos
+PSSA3;PORTO SEGURO SA ON;Previdência e Seguros;Seguradoras
+TGMA3;Tegma ON NM;Transporte;Transporte Rodoviário
+ITSA3;ITAÚSA ON N1;Intermediários Financeiros;Bancos
+AXIA6;AXIA ENERGIA PNB N1;Energia Elétrica;Energia Elétrica
+ISAE3;ISA ENERGIA ON;Energia Elétrica;Energia Elétrica
+SUZB3;Suzano Papel ON;Madeira e Papel;Papel e Celulose
+BMEB4;BANCO MERCANTIL DO BRASIL S/A PN;Intermediários Financeiros;Bancos
+BBSE3;BBSEGURIDADE ON NM;Previdência e Seguros;Seguradoras
 TAEE3;TAESA N2;Energia Elétrica;Energia Elétrica
+NEOE3;NEOENERGIA ON NM;Energia Elétrica;Energia Elétrica
+CPFE3;CPFL ENERGIA S.A. ON;Energia Elétrica;Energia Elétrica
+KEPL3;KEPLER WEBER SA ON;Máquinas e Equipamentos;Máq. e Equip. Industriais
+BMIN3;BANCO MERCANTIL DE INVESTIMENTOS SA ON;Intermediários Financeiros;Bancos
+HYPE3;HYPERA ON;Comércio e Distribuição;Medicamentos e Outros Produtos
 GGPS3;GPS ON NM;Serviços Diversos;Serviços Diversos
 TAEE11;TAESA UNT;Energia Elétrica;Energia Elétrica
-HYPE3;HYPERA ON;Comércio e Distribuição;Medicamentos e Outros Produtos
+SMTO3;SAO MARTINHO ON NM;Alimentos Processados;Açucar e Alcool
 TAEE4;TAESA PN N2;Energia Elétrica;Energia Elétrica
 RPAD5;ALFA HOLDINGS PNA;Intermediários Financeiros;Bancos
-MDIA3;M.DIASBRANCO ON NM;Alimentos Processados;Alimentos Diversos
-EQPA6;EQTL PARA PNB;Energia Elétrica;Energia Elétrica
-BLAU3;BLAU ON NM;Comércio e Distribuição;Medicamentos e Outros Produtos
 TTEN3;3TENTOS ON NM;Agropecuária;Agricultura
-EALT4;ELECTRO AÇO ALTONA S/A PN;Máquinas e Equipamentos;Máq. e Equip. Industriais
+MDIA3;M.DIASBRANCO ON NM;Alimentos Processados;Alimentos Diversos
 MULT3;Multiplan ON N2;Exploração de Imóveis;Exploração de Imóveis
-MRSA6B;MRS LOGÍSTICA S/A PNB MB;Transporte;Transporte Ferroviário
-BALM3;BAUMER ON;Equipamentos;Equipamentos
+EALT4;ELECTRO AÇO ALTONA S/A PN;Máquinas e Equipamentos;Máq. e Equip. Industriais
+EQPA6;EQTL PARA PNB;Energia Elétrica;Energia Elétrica
 AZZA3;AZZAS 2154 ON;Comércio;Tecidos, Vestuário e Calçados
-IGTI3;IGUATEMI S.A ON N1;Exploração de Imóveis;Exploração de Imóveis
+BALM3;BAUMER ON;Equipamentos;Equipamentos
+ITUB4;ITAUUNIBANCO PN N1;Intermediários Financeiros;Bancos
 BPAR3;BANPARÁ S.A. ON;Intermediários Financeiros;Bancos
 UGPA3;ULTRAPAR PARTICIPAÇÕES SA ON;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição
-SMTO3;SAO MARTINHO ON NM;Alimentos Processados;Açucar e Alcool
-FIQE3;UNIFIQUE ON NM;Telecomunicações;Telecomunicações
 EQPA5;EQTL PARA PNA;Energia Elétrica;Energia Elétrica
-ITUB4;ITAUUNIBANCO PN N1;Intermediários Financeiros;Bancos
+FIQE3;UNIFIQUE ON NM;Telecomunicações;Telecomunicações
 EGIE3;ENGIE BRASIL ON;Energia Elétrica;Energia Elétrica
-MRSA5B;MRS LOGÍSTICA S/A PNA MB;Transporte;Transporte Ferroviário
 CGAS5;COMPANHIA DE GÁS DE SÃO PAULO - COMGÁS PNAS;Gás;Gás
 EKTR4;ELEKTRO ELETRICIDADE E SERVIÇOS S.A. PN;Energia Elétrica;Energia Elétrica
-MATD3;MATER DEI ON NM;Serv.Méd.Hospit. Análises e Diagnósticos;Serv.Méd.Hospit. Análises e Diagnósticos
-ASAI3;ASSAI ON NM;Comércio e Distribuição;Alimentos
-EALT3;ELECTRO AÇO ALTONA S/A ON;Máquinas e Equipamentos;Máq. e Equip. Industriais
 ALUP4;ALUPAR PN N2;Energia Elétrica;Energia Elétrica
-CGAS3;COMPANHIA DE GÁS DE SÃO PAULO - COMGÁS ON;Gás;Gás
-ALUP11;ALUPAR UNT N2;Energia Elétrica;Energia Elétrica
-CEBR3;CEB - COMPANHIA ENERGÉTICA DE BRASÍLIA ON;Energia Elétrica;Energia Elétrica
-MTSA4;METISA PN;Máquinas e Equipamentos;Máq. e Equip. Construção e Agrícolas
+EALT3;ELECTRO AÇO ALTONA S/A ON;Máquinas e Equipamentos;Máq. e Equip. Industriais
 ALPA3;ALPARGATAS ON N1;Tecidos, Vestuário e Calçados;Calçados
-ENMT3;ENERGISA MT ON;Energia Elétrica;Energia Elétrica
-CEBR5;CEB - COMPANHIA ENERGÉTICA DE BRASÍLIA PNA;Energia Elétrica;Energia Elétrica
-CMIG3;CEMIG ON N1;Energia Elétrica;Energia Elétrica
+ALUP11;ALUPAR UNT N2;Energia Elétrica;Energia Elétrica
+CGAS3;COMPANHIA DE GÁS DE SÃO PAULO - COMGÁS ON;Gás;Gás
+ASAI3;ASSAI ON NM;Comércio e Distribuição;Alimentos
+CEBR3;CEB - COMPANHIA ENERGÉTICA DE BRASÍLIA ON;Energia Elétrica;Energia Elétrica
 TFCO4;TRACK FIELD PN;Tecidos, Vestuário e Calçados;Vestuário
+MATD3;MATER DEI ON NM;Serv.Méd.Hospit. Análises e Diagnósticos;Serv.Méd.Hospit. Análises e Diagnósticos
+CEBR5;CEB - COMPANHIA ENERGÉTICA DE BRASÍLIA PNA;Energia Elétrica;Energia Elétrica
+MTSA4;METISA PN;Máquinas e Equipamentos;Máq. e Equip. Construção e Agrícolas
 ITUB3;ITAUUNIBANCO ON N1;Intermediários Financeiros;Bancos
-PATI3;PANATLANTICA ON;Siderurgia e Metalurgia;Artefatos de Ferro e Aço
+ENMT3;ENERGISA MT ON;Energia Elétrica;Energia Elétrica
+BLAU3;BLAU ON NM;Comércio e Distribuição;Medicamentos e Outros Produtos
 ALUP3;ALUPAR ON N2;Energia Elétrica;Energia Elétrica
-IGTI11;IGUATEMI S.A UNT N1;Exploração de Imóveis;Exploração de Imóveis
-ENMT4;ENERGISA MT ON;Energia Elétrica;Energia Elétrica
+CMIG3;CEMIG ON N1;Energia Elétrica;Energia Elétrica
+MRSA6B;MRS LOGÍSTICA S/A PNB MB;Transporte;Transporte Ferroviário
+PATI3;PANATLANTICA ON;Siderurgia e Metalurgia;Artefatos de Ferro e Aço
 PNVL3;PANVEL FARMÁCIAS ON;Comércio e Distribuição;Medicamentos e Outros Produtos
+ENMT4;ENERGISA MT ON;Energia Elétrica;Energia Elétrica
 EQPA7;EQTL PARA PNC;Energia Elétrica;Energia Elétrica
+MRSA5B;MRS LOGÍSTICA S/A PNA MB;Transporte;Transporte Ferroviário
 AFLT3;AFLUENTE T ON;Energia Elétrica;Energia Elétrica
 CEBR6;CEB - COMPANHIA ENERGÉTICA DE BRASÍLIA PNB;Energia Elétrica;Energia Elétrica
-FIBR3;Fibria ON N1;Madeira e Papel;Papel e Celulose
-BRAP3;BRADESPAR S/A ON N1;Mineração;Minerais Metálicos
+ENGI4;ENERGISA PN;Energia Elétrica;Energia Elétrica
 BPAC11;BTGP BANCO UNT;Intermediários Financeiros;Bancos
+BRAP3;BRADESPAR S/A ON N1;Mineração;Minerais Metálicos
+FIBR3;Fibria ON N1;Madeira e Papel;Papel e Celulose
+REDE3;REDE EMPRESAS DE ENERGIA ELÉTRICA S.A. ON;Energia Elétrica;Energia Elétrica
 BPAC5;BTGP BANCO PNA;Intermediários Financeiros;Bancos
 CMIN3;CSNMINERACAO ON N2;Mineração;Minerais Metálicos
 ALOS3;ALLOS ON;Exploração de Imóveis;Exploração de Imóveis
-JOPA4;JOSAPAR S/A PN;Alimentos Processados;Alimentos Diversos
 PASS3;COMPASS ON NM;Gás;Gás
+JOPA4;JOSAPAR S/A PN;Alimentos Processados;Alimentos Diversos
+ENGI11;ENERGISA UNT N2;Energia Elétrica;Energia Elétrica
 BRAP4;BRADESPAR S/A PN N1;Mineração;Minerais Metálicos
 ALPA4;ALPARGATAS PN N1;Tecidos, Vestuário e Calçados;Calçados
-REDE3;REDE EMPRESAS DE ENERGIA ELÉTRICA S.A. ON;Energia Elétrica;Energia Elétrica
+TOTS3;TOTVS ON NM;Programas e Serviços;Programas e Serviços
 SBSP3;SABESP ON NM;Água e Saneamento;Água e Saneamento
-GOAU3;METALÚRGICA GERDAU ON N1;Siderurgia e Metalurgia;Siderurgia
+RANI3;IRANI ON;Madeira e Papel;Papel e Celulose
 BMOB3;BEMOBI TECH ON NM;Programas e Serviços;Programas e Serviços
 EKTR3;ELEKTRO ELETRICIDADE E SERVIÇOS S.A. ON;Energia Elétrica;Energia Elétrica
-TOTS3;TOTVS ON NM;Programas e Serviços;Programas e Serviços
-PATI4;PANATLANTICA PN;Siderurgia e Metalurgia;Artefatos de Ferro e Aço
-CXSE3;CAIXA SEGURI ON NM;Previdência e Seguros;Seguradoras
-RANI3;IRANI ON;Madeira e Papel;Papel e Celulose
 B3SA3;B3 ON;Serviços Financeiros Diversos;Serviços Financeiros Diversos
+GOAU3;METALÚRGICA GERDAU ON N1;Siderurgia e Metalurgia;Siderurgia
+PATI4;PANATLANTICA PN;Siderurgia e Metalurgia;Artefatos de Ferro e Aço
 JOPA3;JOSAPAR S/A ON;Alimentos Processados;Alimentos Diversos
 CPLE3;COPEL ON;Energia Elétrica;Energia Elétrica
-PEAB3;CIA. DE PARTICIPAÇÕES ALIANÇA DA BAHIA ON;Holdings Diversificadas;Holdings Diversificadas
+CXSE3;CAIXA SEGURI ON NM;Previdência e Seguros;Seguradoras
 FLRY3;FLEURY ON NM;Serv.Méd.Hospit. Análises e Diagnósticos;Serv.Méd.Hospit. Análises e Diagnósticos
-ENGI4;ENERGISA PN;Energia Elétrica;Energia Elétrica
-CASN4;CASAN PN;Água e Saneamento;Água e Saneamento
-GOAU4;METALÚRGICA GERDAU PN N1;Siderurgia e Metalurgia;Siderurgia
-ABEV3;AMBEV S/A ON;Bebidas;Cervejas e Refrigerantes
-SMFT3;SMART FIT ON NM;Viagens e Lazer;Atividades Esportivas
-BPAC3;BTGP BANCO ON;Intermediários Financeiros;Bancos
-CSMG3;COPASA MG ON;Água e Saneamento;Água e Saneamento
-WHRL4;WHIRLPOOL S.A. PN;Utilidades Domésticas;Eletrodomésticos
-GGBR3;GERDAU S.A. ON N1;Siderurgia e Metalurgia;Siderurgia
+PEAB3;CIA. DE PARTICIPAÇÕES ALIANÇA DA BAHIA ON;Holdings Diversificadas;Holdings Diversificadas
 VIVT3;TELEF BRASIL ON;Telecomunicações;Telecomunicações
+CASN4;CASAN PN;Água e Saneamento;Água e Saneamento
+SMFT3;SMART FIT ON NM;Viagens e Lazer;Atividades Esportivas
 AURA33;AURA 360 DR3;Mineração;Minerais Metálicos
-ENGI11;ENERGISA UNT N2;Energia Elétrica;Energia Elétrica
-PEAB4;CIA. DE PARTICIPAÇÕES ALIANÇA DA BAHIA PN;Holdings Diversificadas;Holdings Diversificadas
+BPAC3;BTGP BANCO ON;Intermediários Financeiros;Bancos
 RDOR3;REDE D OR ON NM;Serv.Méd.Hospit. Análises e Diagnósticos;Serv.Méd.Hospit. Análises e Diagnósticos
-QUAL3;QUALICORP ON NM;Serv.Méd.Hospit. Análises e Diagnósticos;Serv.Méd.Hospit. Análises e Diagnósticos
+ABEV3;AMBEV S/A ON;Bebidas;Cervejas e Refrigerantes
+GOAU4;METALÚRGICA GERDAU PN N1;Siderurgia e Metalurgia;Siderurgia
+WHRL4;WHIRLPOOL S.A. PN;Utilidades Domésticas;Eletrodomésticos
+PEAB4;CIA. DE PARTICIPAÇÕES ALIANÇA DA BAHIA PN;Holdings Diversificadas;Holdings Diversificadas
+GGBR3;GERDAU S.A. ON N1;Siderurgia e Metalurgia;Siderurgia
+CSMG3;COPASA MG ON;Água e Saneamento;Água e Saneamento
 WHRL3;WHIRLPOOL S.A. ON;Utilidades Domésticas;Eletrodomésticos
-LIPR3;LIGHTPAR ON;Energia Elétrica;Energia Elétrica
-ARML3;ARMAC ON NM;Diversos;Aluguel de carros
-AUAU3;PETZCOBASI ON NM;Comércio;Produtos Diversos
-BRST3;BRISANET ON NM;Telecomunicações;Telecomunicações
-GGBR4;GERDAU S.A. PN N1;Siderurgia e Metalurgia;Siderurgia
-CASN3;CASAN ON;Água e Saneamento;Água e Saneamento
 ENGI3;ENERGISA ON;Energia Elétrica;Energia Elétrica
-MERC3;MERCANTIL BRASIL ON;Intermediários Financeiros;Soc. Crédito e Financiamento
+QUAL3;QUALICORP ON NM;Serv.Méd.Hospit. Análises e Diagnósticos;Serv.Méd.Hospit. Análises e Diagnósticos
+LIPR3;LIGHTPAR ON;Energia Elétrica;Energia Elétrica
+BRST3;BRISANET ON NM;Telecomunicações;Telecomunicações
+ARML3;ARMAC ON NM;Diversos;Aluguel de carros
+CASN3;CASAN ON;Água e Saneamento;Água e Saneamento
+AUAU3;PETZCOBASI ON NM;Comércio;Produtos Diversos
+GGBR4;GERDAU S.A. PN N1;Siderurgia e Metalurgia;Siderurgia
 RADL3;RAIADROGASIL ON;Comércio e Distribuição;Medicamentos e Outros Produtos
-CEGR3;CEG ON;Gás;Gás
+MERC3;MERCANTIL BRASIL ON;Intermediários Financeiros;Soc. Crédito e Financiamento
 FRAS3;FRAS-LE S.A. ON;Material de Transporte;Material Rodoviário
+CEGR3;CEG ON;Gás;Gás
+CAML3;CAMIL ON NM;Alimentos Processados;Alimentos Diversos
 MERC4;MERCANTIL BRASIL PN;Intermediários Financeiros;Soc. Crédito e Financiamento
 TKNO4;TEKNO PN;Siderurgia e Metalurgia;Artefatos de Ferro e Aço
-CAML3;CAMIL ON NM;Alimentos Processados;Alimentos Diversos
 SAPR4;SANEPAR PN;Água e Saneamento;Água e Saneamento
-SAPR11;SANEPAR UNT N2;Água e Saneamento;Água e Saneamento
 UNIP3;UNIPAR PARTICIPAÇÕES S.A. ON;Químicos;Químicos Diversos
-SAUD3;BRADSAUDE ON NM;Serv.Méd.Hospit. Análises e Diagnósticos;Serv.Méd.Hospit. Análises e Diagnósticos
-SLCE3;SLC Agricola ON NM;Agropecuária;Agricultura
+SAPR11;SANEPAR UNT N2;Água e Saneamento;Água e Saneamento
 UNIP5;UNIPAR PARTICIPAÇÕES S.A. PNA;Químicos;Químicos Diversos
-SAPR3;SANEPAR ON;Água e Saneamento;Água e Saneamento
-RAIL3;RUMO S.A. ON NM;Transporte;Transporte Ferroviário
+SLCE3;SLC Agricola ON NM;Agropecuária;Agricultura
 UNIP6;UNIPAR PARTICIPAÇÕES S.A. PNB;Químicos;Químicos Diversos
-YDUQ3;YDUQS PART ON;Diversos;Serviços Educacionais
+SAPR3;SANEPAR ON;Água e Saneamento;Água e Saneamento
+SAUD3;BRADSAUDE ON NM;Serv.Méd.Hospit. Análises e Diagnósticos;Serv.Méd.Hospit. Análises e Diagnósticos
+RAIL3;RUMO S.A. ON NM;Transporte;Transporte Ferroviário
 ESPA3;ESPACOLASER ON NM;Comércio;Produtos Diversos
+YDUQ3;YDUQS PART ON;Diversos;Serviços Educacionais
 MOAR3;MONTEIRO ARANHA ON;Holdings Diversificadas;Holdings Diversificadas
-TASA4;TAURUS ARMAS PN;Máquinas e Equipamentos;Armas e Munições
 ELEK3;ELEKEIROZ S/A ON;Químicos;Petroquímicos
-TASA3;TAURUS ARMAS ON;Máquinas e Equipamentos;Armas e Munições
+CSED3;CRUZEIRO EDU ON NM;Diversos;Serviços Educacionais
 OPCT3;OCEANPACT ON NM;Petróleo, Gás e Biocombustíveis;Equipamentos e Serviços
 BRGE6;CONSORCIO ALFA PNB;Previdência e Seguros;Seguradoras
-BRGE7;CONSORCIO ALFA PNC;Previdência e Seguros;Seguradoras
 SIMH3;SIMPAR ON NM;Holdings Diversificadas;Holdings Diversificadas
+AGRO3;BRASILAGRO ON NM;Agropecuária;Agricultura
+ALPK3;ESTAPAR ON NM;Serviços Diversos;Serviços Diversos
+BRGE7;CONSORCIO ALFA PNC;Previdência e Seguros;Seguradoras
 BRGE8;CONSORCIO ALFA PND;Previdência e Seguros;Seguradoras
 BRGE11;CONSORCIO ALFA PNE;Previdência e Seguros;Seguradoras
 ELEK4;ELEKEIROZ S/A PN;Químicos;Petroquímicos
-ALPK3;ESTAPAR ON NM;Serviços Diversos;Serviços Diversos
 WEGE3;WEG SA ON N1;Máquinas e Equipamentos;Motores, Compressores e Outros
-HBOR3;Helbor ON;Construção Civil;Incorporações
 POSI3;POSITIVO TEC ON NM;Computadores e Equipamentos;Computadores e Equipamentos
-AGRO3;BRASILAGRO ON NM;Agropecuária;Agricultura
 PARD3;IHPARDINI ON NM;Serv.Méd.Hospit. Análises e Diagnósticos;Serv.Méd.Hospit. Análises e Diagnósticos
-CRIV4;ALFA FINANCEIRA PN;Intermediários Financeiros;Soc. Crédito e Financiamento
-EMBJ3;EMBRAER ON NM;Material de Transporte;Material Aeronáutico e de Defesa
-ALSC3;ALIANSCE ON NM;Exploração de Imóveis;Exploração de Imóveis
 SOJA3;BOA SAFRA ON NM;Agropecuária;Agricultura
+CRIV4;ALFA FINANCEIRA PN;Intermediários Financeiros;Soc. Crédito e Financiamento
+HBOR3;Helbor ON;Construção Civil;Incorporações
+ALSC3;ALIANSCE ON NM;Exploração de Imóveis;Exploração de Imóveis
 ELMD3;ELETROMIDIA ON NM;Mídia;Publicidade e Propaganda
 DESK3;DESKTOPSIGMA ON NM;Telecomunicações;Telecomunicações
+EMBJ3;EMBRAER ON NM;Material de Transporte;Material Aeronáutico e de Defesa
 EQTL3;EQUATORIAL ENERGIA S.A. ON NM;Energia Elétrica;Energia Elétrica
-KLBN4;KLABIN PN N2;Madeira e Papel;Papel e Celulose
 KLBN11;KLABIN UNT N2;Madeira e Papel;Papel e Celulose
+KLBN4;KLABIN PN N2;Madeira e Papel;Papel e Celulose
 KLBN3;KLABIN ON N2;Madeira e Papel;Papel e Celulose
 SULA11;Sul America UNT N2;Previdência e Seguros;Seguradoras
 SULA3;Sul America ON N2;Previdência e Seguros;Seguradoras
